@@ -37,12 +37,12 @@ class _TransformPageViewState extends State<TransformPageView> {
   Widget build(BuildContext context) {
     double _opty;
     List<String> images = [
-      'images/hsdxd.jpg',
-      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/Img_FlutterFlow_IOS_6J/main/p13_1/rentagirl.jpe',
-      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/Img_FlutterFlow_IOS_6J/main/p13_1/5-no-tobu.jpg',
-      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/Img_FlutterFlow_IOS_6J/main/p13_1/komi.jpg',
-      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/Img_FlutterFlow_IOS_6J/main/p13_1/ntzusou.jpg',
-      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/Img_FlutterFlow_IOS_6J/main/p13_1/citrus.png'
+      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/UII_Act5_Disenos/master/images/hsdxd.jpg',
+      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/UII_Act5_Disenos/master/images/komi.jpeg',
+      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/UII_Act5_Disenos/master/images/ntz.jpg',
+      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/UII_Act5_Disenos/master/images/rtg.jpg',
+      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/UII_Act5_Disenos/master/images/sxf.jpg',
+      'https://raw.githubusercontent.com/BerthaAreliFuentesRodriguez/UII_Act5_Disenos/master/images/tb.jpg'
     ];
     return Center(
       child: SizedBox(
